@@ -24,14 +24,16 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```
 
-### Build the app
+### Run Backend
+-go inside the backend folder
 
 ```shell
-npm run build
+npm run dev
 ```
 
-### Start the app
+### Start the frontend
+-move into the frontend and ..
 
 ```shell
-npm start
+npm run dev
 ```
