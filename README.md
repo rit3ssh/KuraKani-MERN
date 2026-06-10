@@ -25,14 +25,14 @@ NODE_ENV=development
 ```
 
 ### Run Backend
--go inside the backend folder
+- go inside the backend folder
 
 ```shell
 npm run dev
 ```
 
 ### Start the frontend
--move into the frontend and ..
+- move into the frontend and ..
 
 ```shell
 npm run dev
