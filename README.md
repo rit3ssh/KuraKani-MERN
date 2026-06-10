@@ -1,4 +1,7 @@
 # ✨ Full Stack Realtime Chat Application
+
+### Check it out Live on : https://kurakani-mern.onrender.com
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
